@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/abdlbaqi/abdlbaqi/refs/heads/main/assets/header.gif)](https://github.com/abdlbaqi)
 
 <h1 align="center">Hi 🌊, I'm Fuad Abdul Baqi <img src="https://raw.githubusercontent.com/abdlbaqi/abdlbaqi/refs/heads/main/assets/cat-roll.gif" width="30" /></h1>
-<h3 align="center">🌟 Junior | Always Learning and Exploring New Tech! 🚀</h3>
+<h3 align="center">🌟 Always Learning and Exploring New Tech! 🚀</h3>
 
 <div align="center"><img src="https://raw.githubusercontent.com/abdlbaqi/abdlbaqi/refs/heads/main/assets/unicorn.gif" alt="unicorn" width="100" height="100"/></div>
 
